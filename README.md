@@ -1,4 +1,5 @@
 # devops-aula02
 Sylvester Stallone
-Arnold Schwarzenegger
+Arnold Schwarzenegger;
 Chuck Norris
+Jackie Chan
